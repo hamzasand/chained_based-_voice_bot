@@ -7,6 +7,7 @@ import speech_recognition as sr
 from openai import OpenAI
 
 from openai.helpers import LocalAudioPlayer
+
 from openai import AsyncOpenAI
 
 load_dotenv()
